@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "nombre": "John Doe",
+        "numero": "1111-1111",
+        "email": "john@doe.email"
+    },
+    {
+        "id": 1,
+        "nombre": "Foo Bar",
+        "numero": "2222-2222",
+        "email": "john@doe.email"
+    },
+    {
+        "id": 2,
+        "nombre": "Alice and Bob",
+        "numero": "3333-3333",
+        "email": "john@doe.emai"
+    }
+]
